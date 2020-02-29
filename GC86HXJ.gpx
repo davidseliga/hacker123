@@ -3,7 +3,7 @@
   <name>Cache Listing Generated from Geocaching.com</name>
   <desc>This is an individual cache generated from Geocaching.com</desc>
   <author>Account "Rockets08" From Geocaching.com</author>
-  <email>contact@geocaching.com</email>
+  <email
   <url>https://www.geocaching.com</url>
   <urlname>Geocaching - High Tech Treasure Hunting</urlname>
   <time>2020-02-29T20:07:51.2590425Z</time>
@@ -23,7 +23,6 @@
       <groundspeak:owner id="9969718">Rockets08</groundspeak:owner>
       <groundspeak:type>Traditional Cache</groundspeak:type>
       <groundspeak:container>Regular</groundspeak:container>
-      <groundspeak:difficulty>1.5</groundspeak:difficulty>
       <groundspeak:terrain>1.5</groundspeak:terrain>
       <groundspeak:country>United States</groundspeak:country>
       <groundspeak:state>Colorado</groundspeak:state>
